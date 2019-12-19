@@ -28,7 +28,6 @@
   },
   "homepage": "https://github.com/younabobo/generate-react-doc#readme",
   "dependencies": {
-    "react-docgen": "^5.0.0",
     "react-docgen-markdown-renderer": "^2.1.3"
   }
 }
